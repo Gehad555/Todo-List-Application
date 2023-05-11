@@ -1,0 +1,25 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "g": "^2.0.1",
+    "helmet": "^6.1.5",
+    "mongoose": "^6.10.0",
+    "nodemon": "^2.0.22",
+    "nodeom": "^0.0.1"
+  },
+  "keywords": [],
+  "description": ""
+}
